@@ -1,18 +1,18 @@
-#NewStory
+# NewStory
 
 L'actualité à la Une en 1 clic, par pays.
 
-# Installation :
+## Installation :
 
 ### `yarn`
 
 
-# Lancement :
+## Lancement :
 
 ### `yarn start`
 
 
-# Fonctionnalitées :
+## Fonctionnalitées :
 
 
 [X] PWA
@@ -22,4 +22,5 @@ L'actualité à la Une en 1 clic, par pays.
 [X] Api
 [ ] Firebase Push Notifications
 
-# Deploiement :
+## Deploiement :
+https://newstorynov.herokuapp.com

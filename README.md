@@ -1,4 +1,4 @@
-# Sunnyonv
+#NewStory
 
 L'actualité à la Une en 1 clic, par pays.
 

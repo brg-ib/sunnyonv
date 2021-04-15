@@ -49,6 +49,8 @@ const LanguageMenu = () => {
     <MenuWrapper className="language-menu">
       <IconButton
         icon={availableLanguages.find(lang => lang.code === i18n.language).icon}
+        // Si l'erreur persiste remplacer par
+        // icon= {frIcon}
         iconHeight="40px"
         margin="5px 0 0"
         onClick={() => setIsOpen(prevState => !prevState)}

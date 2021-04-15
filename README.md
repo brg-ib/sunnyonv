@@ -1,3 +1,3 @@
 # sunnyonv
 
-Habille-toi en fonction de la météo !
+L'actualité en 1 clic, par pays.

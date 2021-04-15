@@ -1,0 +1,6 @@
+export const SET_NEWS = 'SET_NEWS'
+export const SET_LOADING = 'SET_LOADING'
+export const SET_NEWS_BY_CATEGORY = 'SET_NEWS_BY_CATEGORY'
+export const SET_COUNTRY = 'SET_COUNTRY'
+export const CLEAR_ARTICLES = 'CLEAR_ARTICLES'
+export const CLEAR_TOP_FIVE_NEWS = 'CLEAR_TOP_FIVE_NEWS'
